@@ -2,45 +2,40 @@
 
   <br />
 
-  <h1>✨ 🚀 WELCOME TO @chimpk'S GITHUB UNIVERSE! 🚀 ✨</h1>
+  <img src="assets/hero-banner.svg" alt="CHIMPK Digital Playground" width="100%" />
+
+  <br /><br />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF3366&center=true&vcenter=true&width=650&lines=Welcome+to+my+profile!+👋;Converting+coffee+into+bug-free+code+☕%E2%9A%A1;Turning+%2F*+todo+*%2F+into+actual+working+apps!+🎉;Debugging:+Being+the+detective+in+a+crime+movie...;...where+you+are+also+the+murderer!+🕵️‍♂️💥" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF007F&center=true&vcenter=true&width=650&lines=%E2%9C%A8+WELCOME+TO+MY+DIGITAL+PLAYGROUND!+%E2%9C%A8;%F0%9F%90%B5+chimpk.exe+is+currently+vibing...;%F0%9F%B9%B8+Converting+caffeine+into+pixels!;%F0%9F%AA%84+Level+99+Digital+Wanderer" alt="Typing Banner" />
   </p>
 
   <p align="center">
-    <b>Coder by day, Debugger by night, Coffee destroyer 24/7! ☕💻✨</b>
-  </p>
-
-  <p align="center">
     <a href="https://github.com/chimpk">
-      <img src="https://img.shields.io/badge/Status-Coding%20%26%20Vibing-FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+      <img src="https://img.shields.io/badge/Mode-Arcade%20Playground-FF007F?style=for-the-badge&logo=retroarch&logoColor=white" alt="Mode" />
     </a>
     <a href="https://github.com/chimpk">
-      <img src="https://img.shields.io/badge/Energy-100%25%20Caffeine-00E5FF?style=for-the-badge&logo=coffeescript&logoColor=black" alt="Caffeine" />
+      <img src="https://img.shields.io/badge/Energy-100%25%20Neon%20Glow-00E5FF?style=for-the-badge&logo=lightning&logoColor=black" alt="Energy" />
     </a>
     <a href="https://github.com/chimpk">
-      <img src="https://img.shields.io/badge/Bugs%20Fixed-999%2B-76FF03?style=for-the-badge&logo=bugatti&logoColor=black" alt="Bugs" />
+      <img src="https://img.shields.io/badge/Vibe-1000%25-76FF03?style=for-the-badge&logo=sparkles&logoColor=black" alt="Vibe" />
     </a>
   </p>
 
   <br />
 
+  <img src="assets/animated-divider.svg" alt="Divider" width="100%" />
+
 </div>
 
 ---
 
 <div align="center">
 
-  <h2>🌈 🎨 TECH & FAVORITE TOYS 🎨 🌈</h2>
+  <h2>🎮 👾 PIXEL COMPANIONS & MASCOTS 👾 🎮</h2>
 
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <p align="center">
+    <img src="assets/pixel-mascot.svg" alt="Pixel Mascot" width="100%" />
   </p>
 
 </div>
@@ -49,67 +44,56 @@
 
 <div align="center">
 
-  <h2>🎮 📦 FEATURED COOL STUFF 📦 🎮</h2>
-
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>📱 Student Management Midterm</h3>
-        <p>
-          <a href="https://github.com/chimpk/student-management-midterm">
-            <img src="https://img.shields.io/badge/Explore-student--management--midterm-FF007F?style=for-the-badge&logo=github" alt="Student Repo" />
-          </a>
-        </p>
-        <p><b>Real-time student manager app powered by Android & Firebase! ⚡</b></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🏦 Bank Final Term App</h3>
-        <p>
-          <a href="https://github.com/chimpk/BankFinalTerm">
-            <img src="https://img.shields.io/badge/Explore-BankFinalTerm-00E5FF?style=for-the-badge&logo=github" alt="Bank Repo" />
-          </a>
-        </p>
-        <p><b>Banking system application with secure Firebase rules & MVVM! 🔒</b></p>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-<div align="center">
-
-  <h2>📊 ⚡ GITHUB STATS & DASHBOARD ⚡ 📊</h2>
-
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chimpk&show_icons=true&theme=synthwave&hide_border=true&title_color=FF3366&text_color=00E5FF&icon_color=FF007F" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimpk&layout=compact&theme=synthwave&hide_border=true&title_color=FF3366&text_color=00E5FF" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <h2>📺 🕹️ ARCADE TERMINAL & SECRET CODES 🕹️ 📺</h2>
 
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chimpk&theme=synthwave&hide_border=true&background=0d1117&ring=FF007F&fire=FF3366&currStreakLabel=00E5FF" alt="GitHub Streak" />
+  <pre>
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║   [SYSTEM STATUS: ONLINE]                                        ║
+ ║   > Loading pixel_world.sys...                                   ║
+ ║   > Spawning cosmic particles...                                 ║
+ ║   > Injecting neon glow shaders...                               ║
+ ║                                                                  ║
+ ║   "Debugging: Being the detective in a crime movie where         ║
+ ║    you are also the murderer!"                                   ║
+ ║                                                                  ║
+ ║   Press [START] or click below to unlock secret achievement!    ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+  </pre>
+
+  <br />
+
+  <p align="center">
+    <a href="https://github.com/chimpk/chimpk/blob/main/README.md#secret-unlocked">
+      <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PRESS%20START-UNLOCK%20SECRET-FF007F?style=for-the-badge" alt="Unlock Secret" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
+<a name="secret-unlocked"></a>
 <div align="center">
 
-  <h3>🌟 "It's not a bug, it's an undocumented feature!" 🌟</h3>
+  <h2>🌟 🎉 SECRET EASTER EGG UNLOCKED! 🎉 🌟</h2>
 
-  <p>Thanks for stopping by! Have an awesome day filled with green checkmarks! ✅🎉</p>
+  <p><b>✨ You found the secret cosmic pixel star! You gain +9999 Vibe Points! ✨</b></p>
+
+  <br />
+
+  <img src="assets/animated-divider.svg" alt="Divider" width="100%" />
+
+  <br /><br />
+
+  <p><i>Thanks for visiting @chimpk's Digital Playground! Have a wonderful day! 🚀✨</i></p>
 
   <p>
     <a href="https://github.com/chimpk">
-      <img src="https://img.shields.io/badge/Back%20To%20Top-⬆️-FF007F?style=for-the-badge" alt="Back to top" />
+      <img src="https://img.shields.io/badge/Back%20To%20Top-%E2%AC%86%EF%B8%8F-00E5FF?style=for-the-badge" alt="Back to top" />
     </a>
   </p>
 
