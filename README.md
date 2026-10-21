@@ -59,7 +59,7 @@
  ║   "Debugging: Being the detective in a crime movie where         ║
  ║    you are also the murderer!"                                   ║
  ║                                                                  ║
- ║   Press [START] or click below to unlock secret achievement!    ║
+ ║   Press [START] or click below to unlock secret achievement!     ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
   </pre>
